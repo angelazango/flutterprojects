@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-void main() {}
+
 
 class PlaylistSection extends StatelessWidget {
   final List<Map<String, dynamic>> playlist = [
